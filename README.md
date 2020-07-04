@@ -4,12 +4,12 @@ In this project, I build a convolutional neural network (CNN) that can classify 
 
 The code is written in Python 3 and Keras with Tensorflow backend all presented in Jupyter Notebook.
 
-# Principal Objectives
+## Principal Objectives
 
 • Classify dog chains correctly and accurately
 • Provide time for the user to determine the type and variety, whether for humans or dogs
 • Choose the best classification algorithms to achieve the two previous goals
 
-# Post Blog
+## Post Blog
 
 https://dev.to/usamnet000/dog-breed-classifier-using-algorithms-cnn-3b8i
