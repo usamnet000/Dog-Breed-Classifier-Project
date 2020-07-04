@@ -10,6 +10,6 @@ The code is written in Python 3 and Keras with Tensorflow backend all presented 
 • Provide time for the user to determine the type and variety, whether for humans or dogs
 • Choose the best classification algorithms to achieve the two previous goals
 
-## Post Blog
+## Blog Post
 
 https://dev.to/usamnet000/dog-breed-classifier-using-algorithms-cnn-3b8i
